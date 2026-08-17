@@ -5,7 +5,3 @@
 <h1 align="center">
   I'm Taz 🙄
 </h1>
-
-<p align="center">
-  <a href="https://discord.gg/Gj3EFn24Uc">Jelly Development!</a>
-</p>
